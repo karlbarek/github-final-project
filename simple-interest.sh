@@ -6,8 +6,8 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
-
+   # karlbarek
+   
    # Input:
    # p, principal amount
    # t, time period in years
